@@ -15,6 +15,6 @@
    宝子+排排：DLRS‘18 https://github.com/sisinflab/SEMAUTO-2.0
    排排+宝子：CIKM‘20 GCN model魔改
 
-下次会议：11月15～17号
+下次会议：11月15～17号1
    
    
